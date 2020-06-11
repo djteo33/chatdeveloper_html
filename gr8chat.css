@@ -1,0 +1,37 @@
+body{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    font-size:3em;
+
+}
+h2{
+    font-size: 2em;
+}
+h3{
+    font-size: 1.5em;
+
+}
+
+
+
+.displayScreen{
+    margin: auto;
+    width: 65%;
+    border: 3px solid green;
+    padding: 10px;
+    float: left;
+    text-align: center;
+}
+
+.loggedin{
+    margin: auto;
+    width: 30%;
+    border: 3px solid green;
+    padding: 10px;
+    float: right;
+    text-align:center ;
+    
+
+}
